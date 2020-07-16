@@ -1,1 +1,1 @@
-web: ./omdb
+web: node server.js
